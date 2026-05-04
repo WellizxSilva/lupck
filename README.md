@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" al="Linux"/>
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/github/v/release/WellizxSilva/lupck?style=for-the-badge&logo=github" alt="Latest Release" />
   <img src="https://img.shields.io/luarocks/v/WellizxSilva/lupck?style=for-the-badge&logo=lua" alt="LuaRocks Version" />  
   <!--
    <img src="https://img.shields.io/github/actions/workflow/status/WellizxSilva/lupck/ci.yml?style=for-the-badge&logo=github" alt="Build Status" />
