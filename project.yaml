@@ -1,0 +1,10 @@
+project:
+  name: lupck
+  version: 0.1.0
+  author: "Wellington Silva"
+  description: "Lightweigth utility designed to bundle Lua scripts and assets into a single standalone executable"
+  license: MIT
+
+paths:
+  lua: lua/lupck/
+  docs: docs/
